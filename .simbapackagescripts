@@ -1,0 +1,7 @@
+[SomeScript]
+Path=test/testscript.simba
+IsScript=True
+
+[Some Example]
+Path=test/testexample.simba
+IsExample=True
